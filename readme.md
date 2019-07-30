@@ -46,7 +46,7 @@ Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 * [Kizito](https://github.com/akhilome/)'s follow along [repo](https://github.com/akhilome/js30) with [completed challenges](https://akhilome.github.io/js30) and [notes](https://akhilome.github.io/js30/notes).
 * [VannTile](https://github.com/vanntile)'s [repository](https://github.com/vanntile/JavaScript30) and [GitHub Pages showcase](https://vanntile.github.io/JavaScript30/). Thank you for a great ⌨️ experience.
 * [Alex Kim](https://github.com/Alex-K1m/js30-challenge) completed all the challenges. You can check them out at [github pages](https://alex-k1m.github.io/js30-challenge/).
-Cheng-Wei Hu https://github.com/HcwXd
+* [Cheng-Wei Hu] (https://github.com/HcwXd) 胡程維｜Cheng-Wei Hu
 
 
 
